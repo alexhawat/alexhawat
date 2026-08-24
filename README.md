@@ -1,58 +1,60 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+# Alex Hawat
 
-**Building [mergeCraft](https://github.com/alexhawat/mergeCraft)** — an AI-powered PR reviewer that runs as a standalone, **BYOK** GitHub Action.
+AI-native engineer in Amsterdam. Building exclusively with agentic AI.
 
-No SaaS account. No dashboard. No lock-in. *Your repo, your keys, your reviewers.*
+**Now:** [mergeCraft](https://github.com/alexhawat/mergeCraft) — evidence-first, BYOK PR review that stays in your GitHub Actions.
 
 </div>
 
----
+I ship production systems end-to-end: multi-agent orchestration, autonomous loops, LLM evaluation, RAG, and workflow automation that replaces manual work. Primary environment is Claude Code and Cursor.
 
-> **Evidence-first reviews.** Deterministic analyzers settle the mechanical facts; the LLM only judges what's left — and a second read-only verifier re-checks every Critical/Major finding before it's posted. Untrusted runs (fork PRs, `pull_request_target`) fail closed.
+## Expertise
 
-## 📊 GitHub stats
+- **Agentic systems** — multi-agent routing, state-machine control, tool use, autonomous loops
+- **LLM in production** — eval (LLM-as-judge, regression sets), HITL monitoring, tracing, prompt and context engineering
+- **Data & retrieval** — RAG, vector search, ingestion from messy documents and unstructured text
+- **Automation** — browser and API recovery flows, Slack-native ops, CI/CD, event-driven backends
+
+## Featured: mergeCraft
+
+Hosted reviewers want your code on their servers and a per-seat subscription. mergeCraft keeps the review on your own runners: deterministic analyzers first, LLM only on what's left, a second verifier on Critical/Major findings, fail-closed on untrusted PRs.
+
+➡️ **[Get started](https://github.com/alexhawat/mergeCraft#-get-started-in-3-steps)**
+
+## Built with
 
 <p align="center">
-  <a href="https://github.com/alexhawat">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=alexhawat&show_icons=true&theme=transparent&hide_rank=false&count_private=true" alt="Alex's GitHub stats" />
-  </a>
-  <a href="https://github.com/alexhawat">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhawat&layout=compact&theme=transparent&exclude_repo=mergeCraft" alt="Top languages" />
-  </a>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="36" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="36" alt="FastAPI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" height="36" alt="Pydantic" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="36" alt="GitHub Actions" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="36" alt="Cursor" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="36" alt="Claude" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="36" alt="Google Cloud" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="36" alt="Databricks" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redis/FF4438" height="36" alt="Redis" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="36" alt="Datadog" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="36" alt="Supabase" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="36" alt="Cloudflare" />
 </p>
 
-## 🚀 mergeCraft
-
-<p align="center">
-  <a href="https://github.com/alexhawat/mergeCraft/actions/workflows/ci.yml"><img src="https://github.com/alexhawat/mergeCraft/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="https://github.com/alexhawat/mergeCraft/actions/workflows/codeql.yml"><img src="https://github.com/alexhawat/mergeCraft/actions/workflows/codeql.yml/badge.svg" alt="CodeQL" /></a>
-  <a href="https://github.com/alexhawat/mergeCraft/actions/workflows/docker.yml"><img src="https://github.com/alexhawat/mergeCraft/actions/workflows/docker.yml/badge.svg" alt="Docker" /></a>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
-  <img src="https://img.shields.io/badge/python-3.14+-blue.svg" alt="Python 3.14+" />
-</p>
-
-**Why it exists:** hosted reviewers want your code on their servers *and* a per-seat subscription. mergeCraft keeps the whole review inside your own GitHub Actions.
-
-- 🔍 **Deep, evidence-first PR review** — correctness, risk, blast-radius, hygiene lenses
-- 🧰 **Deterministic analyzers** — actionlint, zizmor, ShellCheck, Hadolint… auto-detected from changed paths
-- 🛡️ **Trust tiers + fail-closed security** for fork PRs and `pull_request_target`
-- 💻 **Offline CLI** for local diff / worktree / cloned-repo reviews (`--json` for benchmarks)
-- 🧪 **Built-in eval infrastructure** — evidence packets, eval-bank replay, gate-and-bench scoring
-
-➡️ **[Get started in 3 steps](https://github.com/alexhawat/mergeCraft#-get-started-in-3-steps)**
-
-## ⭐ Star history
-
-<a href="https://star-history.com/#alexhawat/mergeCraft&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alexhawat/mergeCraft&type=Date&theme=dark" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alexhawat/mergeCraft&type=Date" />
-  </picture>
-</a>
-
-## 🔗 Find me
+## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-alexhawat-181717?logo=github&logoColor=white)](https://github.com/alexhawat)
-[![mergeCraft](https://img.shields.io/badge/Project-mergeCraft-2ea44f?logo=github&logoColor=white)](https://github.com/alexhawat/mergeCraft)
+[![X](https://img.shields.io/badge/X-alexhawat-000000?logo=x&logoColor=white)](https://x.com/alexhawat)
+[![mergeCraft](https://img.shields.io/badge/mergeCraft-2ea44f?logo=github&logoColor=white)](https://github.com/alexhawat/mergeCraft)
