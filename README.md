@@ -4,7 +4,7 @@
 
 AI-native engineer in Amsterdam. Building exclusively with agentic AI.
 
-**Now:** [mergeCraft](https://github.com/alexhawat/mergeCraft) — evidence-first, BYOK PR review that stays in your GitHub Actions.
+**Now:** [mergeCraft](https://github.com/alexhawat/mergeCraft) — An evidence-first AI code review engine combining deterministic analysis, model reasoning, independent verification, and policy-driven merge gates.
 
 </div>
 
