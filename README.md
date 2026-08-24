@@ -23,7 +23,7 @@ Hosted reviewers want your code on their servers and a per-seat subscription. me
 
 ➡️ **[Get started](https://github.com/alexhawat/mergeCraft#-get-started-in-3-steps)**
 
-## Built with
+## Building with
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="36" alt="Python" />
