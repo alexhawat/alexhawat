@@ -36,7 +36,10 @@ Hosted reviewers want your code on their servers and a per-seat subscription. me
   &nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="36" alt="GitHub Actions" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="36" alt="Cursor" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/cursor/000000" height="36" alt="Cursor" />
+  </picture>
   &nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" height="36" alt="Claude" />
   &nbsp;
