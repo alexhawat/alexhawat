@@ -12,10 +12,12 @@ I ship production systems end-to-end: multi-agent orchestration, autonomous loop
 
 ## Expertise
 
-- **Agentic systems** — multi-agent routing, state-machine control, tool use, autonomous loops
-- **LLM in production** — eval (LLM-as-judge, regression sets), HITL monitoring, tracing, prompt and context engineering
-- **Data & retrieval** — RAG, vector search, ingestion from messy documents and unstructured text
-- **Automation** — browser and API recovery flows, Slack-native ops, CI/CD, event-driven backends
+- **Multi-agent systems** — explicit agent routing, state-machine control, tool execution, autonomous loops, document-aware reasoning
+- **LLM evaluation & verification** — LLM-as-a-judge, regression sets (F1/accuracy), independent verifier patterns, HITL monitoring
+- **Production discipline** — deterministic controls upfront, fail-closed gates, LLM observability, latency & failure handling
+- **RAG & retrieval** — vector search (pgvector, ChromaDB), ingestion of messy PDFs and unstructured text, semantic interfaces
+- **Agent-native interfaces** — MCP servers & clients, structured JSONL protocols, policy-driven CI gates
+- **Workflow automation** — browser-automation recovery flows, Slack-native ops, n8n, event-driven backends
 
 ## Featured: mergeCraft
 
@@ -43,6 +45,8 @@ Hosted reviewers want your code on their servers and a per-seat subscription. me
   &nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" height="36" alt="Claude" />
   &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="36" alt="Gemini" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="36" alt="Google Cloud" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="36" alt="Databricks" />
@@ -54,6 +58,12 @@ Hosted reviewers want your code on their servers and a per-seat subscription. me
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="36" alt="Supabase" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="36" alt="Cloudflare" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="36" alt="n8n" />
+</p>
+
+<p align="center">
+  Also: PydanticAI · LiteLLM · MCP · Groq/Llama · OpenAI API · Playwright
 </p>
 
 ## Find me
