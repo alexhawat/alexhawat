@@ -10,7 +10,7 @@ AI-native engineer in Amsterdam. Building exclusively with agentic AI.
 
 I ship production systems end-to-end: multi-agent orchestration, autonomous loops, LLM evaluation, RAG, and workflow automation that replaces manual work. Primary environment is Claude Code and Cursor.
 
-## Expertise
+
 
 - **Multi-agent systems** — explicit agent routing, state-machine control, tool execution, autonomous loops, document-aware reasoning
 - **LLM evaluation & verification** — LLM-as-a-judge, regression sets (F1/accuracy), independent verifier patterns, HITL monitoring
